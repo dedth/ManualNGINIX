@@ -40,7 +40,7 @@ Veamos ahora cuáles son las características de Nginx que hacen de éste servid
 
 3. Quedara una carpeta con los archivos de nginx y moverlo a la carpeta raiz o al disco c:
 
-4. Configurar los entornos de variables ala carpeta bin
+4. Configurar las variables de entorno  con la carpeta bin
 
 5. Abrir una terminal cmd como administrador y ejecutamos el comando: nginx --version para verificar la version de nginx
 
@@ -48,5 +48,5 @@ Veamos ahora cuáles son las características de Nginx que hacen de éste servid
 
 ## PASOS PARA INICIAR NGINX
 
-1. En la misma terminal cmd nos dirijimos ala carpeta de nginx con cd C:\nginx
+1. En la misma terminal cmd nos dirijimos a la carpeta de nginx con cd C:\nginx
 2. Despues ejecutamos el comando nginx y correra el servidor 
